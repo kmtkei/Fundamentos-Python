@@ -16,7 +16,7 @@ else:
 
 
 ```
-### Bucles / Ciclos (While, For, ForEach) 
+### Bucles / Ciclos (While, For) 
 ```
 
 while condicion:
